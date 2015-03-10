@@ -1,0 +1,23 @@
+\frametitle{ROT-13}
+
+Following is a sample code for a rot-N algorithm.
+
+\begin{lstlisting} [language=Python]
+def encrypt(data, N):
+    result = []
+    for c in list(data):
+        # Upper Case Letters
+        if ord(c) > 64 and ord(c) < 91:
+            result.append(chr(65 + (ord(c) - 65 + N) % 26))
+
+        # Lower Case Letters
+        if ord(c) > 96 and ord(c) < 123:
+            result.append(chr(97 + (ord(c) - 97 + N) % 26))
+
+        # We ignore everything else
+        else:
+            result.append(c)
+
+    return "".join(result)
+\end{lstlisting}
+
