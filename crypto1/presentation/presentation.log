@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.8)  8 MAR 2015 19:49
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.8)  9 MAR 2015 20:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -963,6 +963,10 @@ File: lstlang1.sty 2013/08/26 1.5b listings language file
 ]
 [12
 
+] [13
+
+] [14
+
 ]
 \tf@nav=\write6
 \openout6 = `presentation.nav'.
@@ -973,11 +977,11 @@ File: lstlang1.sty 2013/08/26 1.5b listings language file
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 208.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 208.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 239.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 239.
  (./presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 208.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 208.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 239.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 239.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -985,11 +989,11 @@ Package rerunfilecheck Info: File `presentation.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 208.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 239.
  ) 
 Here is how much of TeX's memory you used:
- 17156 strings out of 493304
- 315106 string characters out of 6139872
+ 17160 strings out of 493304
+ 315144 string characters out of 6139872
  537607 words of memory out of 5000000
  20183 multiletter control sequences out of 15000+600000
  12223 words of font info for 45 fonts, out of 8000000 for 9000
@@ -1002,10 +1006,10 @@ ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on presentation.pdf (12 pages, 227625 bytes).
+Output written on presentation.pdf (14 pages, 233427 bytes).
 PDF statistics:
- 373 PDF objects out of 1000 (max. 8388607)
- 337 compressed objects within 4 object streams
- 25 named destinations out of 1000 (max. 500000)
+ 426 PDF objects out of 1000 (max. 8388607)
+ 388 compressed objects within 4 object streams
+ 29 named destinations out of 1000 (max. 500000)
  58 words of extra memory for PDF output out of 10000 (max. 10000000)
 
